@@ -1,8 +1,17 @@
 body {
-    background-color: rgb(218, 216, 112);
+    background-color: rgb(13, 9, 68);
+    margin: auto;
 }
 
-header{
-    text-align: center;
-    background-color: antiquewhite;
+header {
+    height: auto;
+    margin-top: 5px;
+    background-color: rgb(17, 71, 55);
 }
+
+.haloimg {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+}
+
